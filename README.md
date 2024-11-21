@@ -98,7 +98,11 @@ Los pasos solicitados para completar este desafío:
 ```
 
 ```sql
-
+Tecnologías utilizadas
+Java
+Spring Boot
+Spring Data JPA
+PostgreSQL
 Copyright (c) [2024] [Fredy Mamani Mamani J]
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
